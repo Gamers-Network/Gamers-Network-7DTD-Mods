@@ -1,0 +1,22 @@
+<Config>
+
+  <insertAfter xpath="/xui/ruleset/window_group[@name='workstation_chemistryStation']" >
+		<window_group name="workstation_WorkBenchItemsPlus+" controller="XUiC_WorkstationWindowGroup">
+			<window name="windowCraftingList"/>
+			<window name="craftingInfoPanel"/>
+			<window name="windowCraftingQueue"/>
+			<window name="windowOutput" />
+			<window name="windowNonPagingHeader" />
+		</window_group>
+  </insertAfter> 
+
+  <insertAfter xpath="/xui/ruleset/window_group[@name='workstation_workbench']" >
+		<window_group name="workstation_MetalWorkbenchItemPlus+" controller="XUiC_WorkstationWindowGroup">
+			<window name="windowCraftingList"/>
+			<window name="craftingInfoPanel"/>
+			<window name="windowCraftingQueue"/>
+			<window name="windowOutput" />
+			<window name="windowNonPagingHeader" />
+		</window_group>
+  </insertAfter> 
+</Config>

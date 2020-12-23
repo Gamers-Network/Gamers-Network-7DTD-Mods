@@ -1,0 +1,24 @@
+<configs>
+<!--NEEDS A NEW lOOD GROUP FOR ITEMPLUS+
+
+<append xpath="//lootgroup[@name='perkBooks']">
+    <item name="9mmAmmoboxHPSchematic" />
+    <item name="9mmAmmoboxAPSchematic" />
+    <item name="ItemPlusToolsSchematic" />
+-->
+
+
+<!--
+</append>
+
+        NEEDS A NEW lOOD GROUP FOR ITEMPLUS+
+<append xpath="//lootgroup[@name='groupAmmoRegular']">
+    <item name="9mmAmmoBoxBB" />
+    <item name="9mmAmmoboxHP" />
+    <item name="9mmAmmoboxAP" />
+
+</append>
+-->
+
+
+</configs>

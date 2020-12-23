@@ -1,0 +1,53 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+
+
+meleeToolT0StoneAxePlus+,Items,item,,,"Stone Axe Plus+"
+meleeToolT0StoneAxePlus+Desc,Items,item,,,"This is Itemsplus+ Content"
+
+meleeToolAxeT1IronFireaxePlus+,Items,item,,,"Fire Axe Plus+"
+meleeToolAxeT1IronFireaxePlus+Desc,Items,item,,,"This is Itemsplus+ Content"
+
+meleeToolPickT1IronPickaxePlus+,Items,item,,,"Iron PickAxe Plus+"
+meleeToolPickT1IronPickaxePlus+Desc,Items,item,,,"This is Itemsplus+ Content"
+
+ChainsawPlus+,Items,item,,,"Chainsaw Plus+"
+ChainsawPlus+Desc,Items,item,,,"This is Itemsplus+ Content, Gives a Damage Bonus to wood by 4.3% , and extra head damage Bonus by 6.4%"
+
+SalvageWrenchPlus+,Items,item,,,"Salvage Wrhench Plus+"
+SalvageWrenchPlus+Desc,Items,item,,,"This is Itemsplus+ Content"
+
+
+
+9mmAmmoBoxBB,Items,Ammo,,,"9mm BB Ammobox"
+9mmAmmoBoxBBDesc,Items,Ammo,,,"This Ammobox Gives you 1 Box of 24 9mm BB (BulletBall) rounds Can stack to 1500"
+9mmAmmoboxHP,Items,Ammo,,,"9mm HP Ammobox"
+9mmAmmoboxHPDesc,Items,Ammo,,,"This Ammobox Gives you 1 Box of 24 9mm HP (Holo Point) rounds Can stack to 1500"
+9mmAmmoboxAP,Items,Ammo,,,"9mm AP Ammobox"
+9mmAmmoboxAPDesc,Items,Ammo,,,"This Ammobox Gives you 1 Box of 24 9mm AP (Armor Piercing) rounds Can stack to 1500"
+
+Repack9mmAmmoBoxBB,Items,Ammo,,," Repack 9mm BB Ammobox"
+Repack9mmAmmoBoxBBDesc,Items,Ammo,,,"This will Repack 1 Box of 24 9mm BB (BulletBall)"
+Repack9mmAmmoboxHP,Items,Ammo,,,"Repack 9mm HP Ammobox"
+Repack9mmAmmoboxHPDesc,Items,Ammo,,,"This will Repack 1 Box of 24 9mm HP (Holo Point)"
+Repack9mmAmmoboxAP,Items,Ammo,,,"Repack 9mm AP Ammobox"
+Repack9mmAmmoboxAPDesc,Items,Ammo,,,"This will Repack 1 Box of 24 9mm AP (Armor Piercing)"
+
+
+
+
+9mmAmmoboxHPSchematic,Items,Schematic,,,"9mm AP Ammobox Schematic"
+9mmAmmoboxAPSchematic,Items,Schematic,,,"9mm AP Ammobox Schematic"
+ItemPlusToolsSchematic,Items,Schematic,,,"Tools Schematic ItemPlus+"
+
+
+
+
+
+WorkBenchItemsPlus+,blocks,Block,,,"Tool WorkBench Items+"
+WorkBenchItemsPlus+Desc,blocks,Block,,,"Here you can Craft all the Itemsplus+ Tools."
+
+MetalWorkbenchItemPlus+,blocks,Block,,,"Gear WorkBench Items+"
+MetalWorkbenchItemPlus+Desc,blocks,Block,,,"Here you can Craft all the Itemsplus+ Gear. Unlocked at Intellect 8"
+
+modularRopeTiled,blocks,Block,,,"RopePlus+"
+modularRopeTiledDesc,blocks,Block,,,"Just A normal peace of rope"
