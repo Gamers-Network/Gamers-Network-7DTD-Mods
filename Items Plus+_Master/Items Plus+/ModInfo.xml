@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xml>
-	<ModInfo>
-		<Name value="Items Plus+"/>
-		<Description value="A Full Item Overhaul In development."/>
-		<Author value="ApexDevil"/>
-		<Version value="0.3.2"/>
-	</ModInfo>
-</xml>
+version https://git-lfs.github.com/spec/v1
+oid sha256:116d1987a8adc75d3d45aea0cd51c0042d67d98f1fd8f889f93db45e24d6c18d
+size 229

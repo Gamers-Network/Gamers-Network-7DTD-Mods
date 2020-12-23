@@ -13,7 +13,7 @@ meleeToolPickT1IronPickaxePlus+Desc,Items,item,,,"This is Itemsplus+ Content"
 ChainsawPlus+,Items,item,,,"Chainsaw Plus+"
 ChainsawPlus+Desc,Items,item,,,"This is Itemsplus+ Content, Gives a Damage Bonus to wood by 4.3% , and extra head damage Bonus by 6.4%"
 
-SalvageWrenchPlus+,Items,item,,,"Salvage Wrhench Plus+"
+SalvageWrenchPlus+,Items,item,,,"Salvage Wrench Plus+"
 SalvageWrenchPlus+Desc,Items,item,,,"This is Itemsplus+ Content"
 
 
@@ -51,3 +51,6 @@ MetalWorkbenchItemPlus+Desc,blocks,Block,,,"Here you can Craft all the Itemsplus
 
 modularRopeTiled,blocks,Block,,,"RopePlus+"
 modularRopeTiledDesc,blocks,Block,,,"Just A normal peace of rope"
+
+casinoCoin,Items,item,,,"Amazon Coin"
+casinoCoinDesc,Items,item,,,"This is The new way to pay"

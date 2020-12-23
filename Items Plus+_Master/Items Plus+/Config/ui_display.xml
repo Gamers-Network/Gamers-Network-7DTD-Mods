@@ -1,25 +1,3 @@
-
-<ItemsPlus>
-
-<append xpath="/ui_display_info/crafting_category_display">
-
-
-		<crafting_category_list display_type="WorkBenchItemsPlus+">
-			<crafting_category name="Tools/Traps" icon="ui_game_symbol_tool" display_name="lblCategoryToolsTraps" />
-			<crafting_category name="Ammo/Weapons" icon="ui_game_symbol_knife" display_name="lblCategoryAmmoWeapons" />
-			<crafting_category name="Resources" icon="ui_game_symbol_resource" display_name="lblCategoryResources" />
-			<crafting_category name="Building" icon="ui_game_symbol_map_house" display_name="lblCategoryBuilding" />
-			<crafting_category name="Science" icon="ui_game_symbol_science" display_name="lblCategoryScience" />
-		</crafting_category_list>
-
-				<crafting_category_list display_type="MetalWorkbenchItemPlus+">
-			<crafting_category name="Tools/Traps" icon="ui_game_symbol_tool" display_name="lblCategoryToolsTraps" />
-			<crafting_category name="Ammo/Weapons" icon="ui_game_symbol_knife" display_name="lblCategoryAmmoWeapons" />
-			<crafting_category name="Resources" icon="ui_game_symbol_resource" display_name="lblCategoryResources" />
-			<crafting_category name="Building" icon="ui_game_symbol_map_house" display_name="lblCategoryBuilding" />
-			<crafting_category name="Science" icon="ui_game_symbol_science" display_name="lblCategoryScience" />
-		</crafting_category_list>
-
-</append>
-
-</ItemsPlus>
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d9c2feecd3f8f7fc2a74f8c3855d53d1032bcc059dfde30c97508810a53a724
+size 1368

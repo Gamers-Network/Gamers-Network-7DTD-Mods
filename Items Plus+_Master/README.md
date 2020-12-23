@@ -116,6 +116,22 @@ fixed a small problem that blocked the Salvage Wrench Plus+ and Stone Axe Plus+ 
 
 Update v0.4
 
+# Added
+
+-New coins called Amazon coins this is now the new currency
+
+-Added the Tool WorkBench Items+ Custom Icon
+
+-Added to new 16K map
+
+-Mounten Vally 16K
+
+<img src="images/MV_previewMap.png" width="800" hight="800">
+
+Water Land 16K
+
+<img src="images/WL_previewMap.png" width="800" hight="800">
+
 # Changed
 
 Increased the resource requirement For WorkBenchItemsPlus+
