@@ -145,3 +145,12 @@ Increased the resource requirement For MetalWorkbenchItemPlus+
 
 -Changed all stack sizes of ammo/food/drinks to 200 (more will be added later)
 
+
+ ============================================================================
+# patch Notes!!
+
+Update v0.4.1
+
+# Fixed
+-Console Error with the 9mmAP Scematic's not existing
+-The Axe and wrench are not unlocked by the Tool Scematic
